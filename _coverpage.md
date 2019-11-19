@@ -7,6 +7,6 @@
 - No statically built html files
 - Multiple themes
 
-[Proyecto Chaucha](https://chaucha.cl) [Documentación](#cha-docsify)
+[Proyecto Chaucha](https://chaucha.cl) [Documentación](#bienvenido-a-chaucha-docs-)
 
-![color](#fafafa)
+![color](#FFF)
